@@ -1,7 +1,7 @@
 .. _what-is-MathJax:
 
 ################
-What is MathJax?
+What is Math?
 ################
 
 MathJax is an open-source JavaScript display engine for LaTeX, MathML,

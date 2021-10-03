@@ -18,7 +18,7 @@ need it.
     :name: basics
     :maxdepth: 1
 
-    What is MathJax?                  <basic/mathjax>
+    What is love?                  <basic/mathjax>
     MathJax Accessibility Features    <basic/accessibility>
     Writing Mathematics for MathJax   <basic/mathematics>
     The MathJax Community             <basic/community>

@@ -2,16 +2,7 @@
 SoftwareDesign Documentation
 #####################
 
-MathJax is an open-source JavaScript display engine for LaTeX,
-MathML, and AsciiMath notation that works in all modern browsers,
-with built-in support for assistive technology like screen readers.
-
-Version 3.0 of MathJax is a complete rewrite of MathJax from the
-ground up, and its usage and configuration is significantly different
-from that of MathJax version 2.  Use the green menu at the bottom of
-the sidebar on the left to access the version 2 documentation if you
-need it.
-
+this is some note for learning software design
 .. _toc-basics:
 .. toctree::
     :caption: The Basics

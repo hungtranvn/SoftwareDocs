@@ -1,3 +1,10 @@
+#conf.py
+import os
+import requests
+
+# Access to our custom enviroment variables
+username = os.environ.get('USERNAME')
+password = os.environ.get('PASSWORD')
 # -*- coding: utf-8 -*-
 #
 # MathJax documentation build configuration file, created by

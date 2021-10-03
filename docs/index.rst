@@ -6,8 +6,11 @@ In this lesson we will take a overview of software knowledge.
 The full-stack software design and architecture
 
 .. prereq::
+   
    1.
+
    2.
+
    3.
 
 .. csv-table::

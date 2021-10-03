@@ -18,12 +18,12 @@
 # -- Project information -----------------------------------------------------
 
 project = "Code documentation lesson"
-copyright = "2021, CodeRefinery team"
-author = "CodeRefinery team"
-github_user = "coderefinery"
-github_repo_name = "documentation"  # auto-detected from dirname if blank
+copyright = "2021, code docs"
+author = ""
+github_user = "code docs"
+github_repo_name = ""  # auto-detected from dirname if blank
 github_version = "main"
-conf_py_path = "/content/" # with leading and trailing slash
+conf_py_path = "/docs/" # with leading and trailing slash
 
 # -- General configuration ---------------------------------------------------
 

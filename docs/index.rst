@@ -1,5 +1,5 @@
 #####################
-MathJax Documentation
+SoftwareDesign Documentation
 #####################
 
 MathJax is an open-source JavaScript display engine for LaTeX,

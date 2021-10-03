@@ -37,7 +37,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'MathJax'
+project = u'SoftwareDocs'
 copyright = u'2021 The MathJax Consortium'
 
 # The version info for the project you're documenting, acts as replacement for
